@@ -4,7 +4,7 @@
 
 💞️ I’m looking to collaborate on any type of project
 
-Skills: - C, C++, C#, Visual basic, Visual Basic .NET, SQL, HTML, MATLAB, Shell, Arduino 
+Skills: C, C++, C#, Visual basic, Visual Basic .NET, SQL, HTML, MATLAB, Shell and Arduino 
 
 - 🔭 I’m currently working on Freelancer (freelance) 
 - 🌱 I’m currently learning Computer Systems Engineering, Computer Systems Security and etc (among other things) 
