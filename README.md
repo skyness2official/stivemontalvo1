@@ -1,13 +1,12 @@
 ### Hi there 👋, my name is Stive Montalvo
 #### I am computer Systems Engineering student. I can respond to the needs of your company. Self-taught with execution capacity. 💻 📚 💼
 👀 I’m interested in Computer systems security and etc (among other things)
-🌱 I’m currently learning Computer Systems Engineering, Computer Systems Security and etc (among other things)
 💞️ I’m looking to collaborate on any type of project
 
 Skills: - C, C++, C#, Visual basic, Visual Basic .NET, SQL, HTML, MATLAB, Shell, Arduino 
 
 - 🔭 I’m currently working on Freelancer (freelance) 
-- 🌱 I’m currently learning Hacking tools and programming languages focused on hacking 
+- 🌱 I’m currently learning 🌱 I’m currently learning Computer Systems Engineering, Computer Systems Security and etc (among other things) 
 - 👯 I’m looking to collaborate on on any type of project 
 - 📫 How to reach me: stivemontalvo@gmail.com 
 - ⚡ Fun fact: I'm a Technician - Computer Application Services and video game lover 
@@ -29,7 +28,7 @@ Skills: - C, C++, C#, Visual basic, Visual Basic .NET, SQL, HTML, MATLAB, Shell,
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=stivemontalvo1)  
 
-![Profile views](https://gpvc.arturio.dev/stivemontalvo1)     
+![Profile views](https://gpvc.arturio.dev/stivemontalvo1)       
 
 
 
