@@ -7,7 +7,7 @@
 Skills: - C, C++, C#, Visual basic, Visual Basic .NET, SQL, HTML, MATLAB, Shell, Arduino 
 
 - 🔭 I’m currently working on Freelancer (freelance) 
-- 🌱 I’m currently learning 🌱 I’m currently learning Computer Systems Engineering, Computer Systems Security and etc (among other things) 
+- 🌱 I’m currently learning Computer Systems Engineering, Computer Systems Security and etc (among other things) 
 - 👯 I’m looking to collaborate on on any type of project 
 - 📫 How to reach me: stivemontalvo@gmail.com 
 - ⚡ Fun fact: I'm a Technician - Computer Application Services and video game lover 
