@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Stive Montalvo
 #### I am computer Systems Engineering student. I can respond to the needs of your company. Self-taught with execution capacity. 💻 📚 💼
 👀 I’m interested in Computer systems security and etc (among other things)
+
 💞️ I’m looking to collaborate on any type of project
 
 Skills: - C, C++, C#, Visual basic, Visual Basic .NET, SQL, HTML, MATLAB, Shell, Arduino 
