@@ -14,7 +14,7 @@ Skills: C, C++, C#, Visual basic, Visual Basic .NET, SQL, HTML, MATLAB, Shell an
 - ⚡ Fun fact: I'm a Technician - Computer Application Services and video game lover 
 
  
-#### My social networks 👉 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://destlink.com/stivemontalvo)
+#### Social networks and services 👉 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://destlink.com/stivemontalvo)
    
 
 
