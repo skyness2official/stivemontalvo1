@@ -3,13 +3,12 @@
 #### 👀 I’m interested in Computer systems security and etc (among other things)
 ![309302332_1800954563597365_8557063711250623968_n](https://user-images.githubusercontent.com/99422338/194978374-12496855-f17f-4efd-a00e-6e75ee05dd29.jpg)
 
-💞️ I’m looking to collaborate on any type of project
-
+ 
 Skills: C, C++, C#, Visual basic, Visual Basic .NET, SQL, HTML, MATLAB, Shell and Arduino 
 
 - 🔭 I’m currently working on Freelancer (freelance) 
 - 🌱 I’m currently learning Computer Systems Engineering, Computer Systems Security and etc (among other things) 
-- 👯 I’m looking to collaborate on on any type of project 
+- 💞️ I’m looking to collaborate on on any type of project 
 - 📫 How to reach me: stivemontalvo@gmail.com 
 - ⚡ Fun fact: I'm a Technician - Computer Application Services and video game lover 
 
