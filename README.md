@@ -4,7 +4,7 @@
 ![309302332_1800954563597365_8557063711250623968_n](https://user-images.githubusercontent.com/99422338/194978374-12496855-f17f-4efd-a00e-6e75ee05dd29.jpg)
 
  
-Skills: C, C++, C#, Visual basic, Visual Basic .NET, SQL, HTML, MATLAB, Shell and Arduino 
+Skills: C, C++, C#, Visual basic, Visual Basic .NET, SQL, HTML, MATLAB, Shell, Arduino and Python 
 
 - 🔭 I’m currently working on Freelancer (freelance) and etc (among other things) 
 - 🌱 I’m currently learning Computer Systems Engineering, Computer Systems Security and etc (among other things) 
