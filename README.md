@@ -24,7 +24,7 @@ Skills: C, C++, C#, Visual basic, Visual Basic .NET, SQL, HTML, MATLAB, Shell, A
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=stivemontalvo1&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=stivemontalvo1)  
+
 
 ![GitHub metrics](https://metrics.lecoq.io/stivemontalvo1)  
 
