@@ -26,8 +26,6 @@ Please click the red button below to nominate me for the Github Stars programme.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=stivemontalvo1&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/stivemontalvo1)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=stivemontalvo1)  
 
 ![Profile views](https://gpvc.arturio.dev/stivemontalvo1)       
