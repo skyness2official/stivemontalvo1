@@ -8,13 +8,9 @@ Skills: C, C++, C#, Visual basic, Visual Basic .NET, SQL, HTML, MATLAB, Shell, A
 
 - 🔭 I’m currently working on Freelancer (freelance) and etc (among other things) 
 - 🌱 I’m currently learning Computer Systems Engineering, Computer Systems Security and etc (among other things) 
-- 💞️ I’m looking to collaborate on on any type of project 
 - ⚡ Fun fact: I'm a Technician - Computer Application Services and video game lover etc (among other things)
-
- 
-#### Social networks and services 👉 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://destlink.com/stivemontalvo)
    
-
+   
 <br>
 
 Please click the red button below to nominate me for the Github Stars programme. <br>
