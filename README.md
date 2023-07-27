@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Stive Montalvo
-#### I am computer Systems Engineering student. Self-taught with execution capacity. 💻 📚 💼
+#### I am a proactive person, an excellent teammate, organized and responsible. My goal is a challenging and dynamic position where I can add experience and new knowledge.
 #### 👀 I’m interested in Computer systems security 
 ![309302332_1800954563597365_8557063711250623968_n](https://user-images.githubusercontent.com/99422338/194978374-12496855-f17f-4efd-a00e-6e75ee05dd29.jpg)
 
