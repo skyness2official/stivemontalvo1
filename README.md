@@ -8,6 +8,7 @@ Skills: C, C++, C#, Visual basic, Visual Basic .NET, SQL, HTML, MATLAB, Shell, A
 
 - 🌱 I’m currently learning Computer Systems Engineering, Computer Systems Security 
 - ⚡ Fun fact: I'm a Technician - Computer Application Services
+
    
 Red social 👉 https://www.linkedin.com/in/stivemontalvo/
 
