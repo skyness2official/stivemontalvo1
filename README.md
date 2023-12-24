@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Stive Montalvo
-#### I am a proactive person, an excellent teammate, organized and responsible. My goal is a challenging and dynamic position where I can add experience and new knowledge.
+#### Applying my knowledge in technology and my experience in customer service in various work environments, I seek to contribute optimize processes and provide excellent customer service in diverse work environments, which will drive the development or aggrandizement of the company.
 #### 👀 I’m interested in Computer systems security 
 ![309302332_1800954563597365_8557063711250623968_n](https://user-images.githubusercontent.com/99422338/194978374-12496855-f17f-4efd-a00e-6e75ee05dd29.jpg)
 
  
 Skills: C, C++, C#, Visual basic, Visual Basic .NET, SQL, HTML, MATLAB, Shell, Arduino, Python, PHP, Rust, Ruby, CSS, Javascript, Assembly and R
 
-- 🌱 I’m currently learning Computer Systems Engineering, Computer Systems Security 
+- 🌱 I’m currently learning 👨‍💻 Information Technology Engineering Student and Bachelor of Computer Science. 🎓 #Tech #CS 
 - ⚡ Fun fact: I'm a Technician - Computer Application Services
 
    
