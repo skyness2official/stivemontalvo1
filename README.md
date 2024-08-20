@@ -10,7 +10,7 @@ Skills: C, C++, C#, Visual basic, Visual Basic .NET, SQL, HTML, MATLAB, Shell, A
 - ⚡ Fun fact: I'm a Technician - Computer Application Services
 
    
-Red social 👉 https://www.linkedin.com/in/stivemontalvo/
+Red social 👉 https://www.linkedin.com/in/skyness2official/
 
 <br>
 
